@@ -1,0 +1,12 @@
+OPENAI_API_KEY=your_openai_key
+
+SUPABASE_URL=your_supabase_url
+SUPABASE_KEY=your_supabase_key
+
+ODOO_URL=your_odoo_url
+ODOO_DB=your_database
+ODOO_USER=your_user
+ODOO_PASSWORD=your_password
+
+SYNC_API_KEY=your_sync_key
+WEBHOOK_SECRET=your_webhook_secret
